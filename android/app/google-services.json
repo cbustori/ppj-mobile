@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826867944977",
+    "firebase_url": "https://ppj-project.firebaseio.com",
+    "project_id": "ppj-project",
+    "storage_bucket": "ppj-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826867944977:android:5067fa56d810cd87046bb0",
+        "android_client_info": {
+          "package_name": "com.enrealit.ppj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826867944977-7v8ofjbaeelgtl8eqclo3bbd3bekghi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enrealit.ppj",
+            "certificate_hash": "8be329e73aa76099d01a6e0048924e0a5bac8c95"
+          }
+        },
+        {
+          "client_id": "826867944977-lfqaqapkee84slrmg0f6d8pia1mcikk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bWg5SX394D8c24Dzvj0oeOrd_CzPQzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826867944977-lfqaqapkee84slrmg0f6d8pia1mcikk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
